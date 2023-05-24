@@ -1,0 +1,44 @@
+{
+  "albums": [
+    {
+      "album": "Endless Summer",
+      "artist": "The Beach Boys",
+      "songs": [
+        "Girl Don't Tell Me",
+        "The Girls On The Beach",
+        "Fun, Fun, Fun",
+        "Let Him Run Wild",
+        "California Girls",
+        "Surfer Girl",
+        "In My Room",
+        "Help Me Rhonda",
+        "Don't Worry Baby",
+        "Shut Down",
+        "The Warmth Of The Sun",
+        "Catch A Wave",
+        "Little Deuce Coupe",
+        "You're So Good To Me",
+        "Be True To Your School",
+        "Surfin U.S.A",
+        "I Get Around",
+        "Surfin' Safari",
+        "All Summer Long",
+        "Wendy"
+      ]
+    },
+    {
+      "album": "All 'n All",
+      "artist": "Earth, Wind & Fire",
+      "songs": [
+        "Love's Holiday",
+        "Serpentine Fire",
+        "I'll Write A Song For You",
+        "In The Market Place",
+        "Runnin'",
+        "Be Ever Wonderful",
+        "Magic Mind",
+        "Fantasy"
+      ]
+    }
+  ]
+}

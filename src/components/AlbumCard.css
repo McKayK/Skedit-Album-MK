@@ -1,0 +1,64 @@
+.song {
+  display: flex;
+  justify-content: center;
+  flex-flow: column wrap;
+  align-items: center;
+  list-style-type: none;
+  width: 100%;
+  height: 50%;
+}
+
+.albumMain {
+  display: flex;
+  justify-content: center;
+}
+
+.album {
+  align-items: center;
+  justify-content: center;
+  height: 425px;
+  width: 450px;
+  margin: 50px 50px;
+  padding-top: 25px;
+  background-image: url("../images/vinyl.png");
+}
+
+button {
+  width: 125px;
+  height: 75px;
+  color: rgb(178, 28, 141);
+  padding-left: 2px;
+  padding-right: 2px;
+  font-weight: bolder;
+}
+
+h1 {
+  color: rgb(5, 181, 221);
+}
+
+h2 {
+  color: coral;
+}
+
+h3 {
+  margin-bottom: 10px;
+  color: rgb(150, 80, 216);
+}
+
+li {
+  font-size: 15px;
+  font-weight: bolder;
+  color: rgb(150, 80, 216);
+}
+
+label {
+  color: rgb(178, 28, 141);
+}
+
+form {
+  text-align: center;
+  margin: auto;
+  height: 210px;
+  width: 250px;
+  border: 3px dotted rgb(53, 152, 228);
+}
